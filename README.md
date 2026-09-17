@@ -61,7 +61,7 @@ Any feature not exposed in the UI defaults to its median value from the training
 
 ```bash
 # clone the repo
-git clone https://github.com/<your-username>/house-price-app.git
+git clone https://github.com/Jay1912-pixel/house-price-app.git
 cd house-price-app
 
 # install dependencies
